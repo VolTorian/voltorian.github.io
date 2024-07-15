@@ -1,9 +1,14 @@
+body {
+    text-align: center;
+}
+
 h1 {
     background: cyan;
 }
 
 ul {
     list-style: none;
+    padding: 0;
 }
 
 li {
