@@ -12,5 +12,22 @@ ul {
 }
 
 li {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+li > * {
+    margin-bottom: .5rem;
+}
+
+li > a {
+    display: block;
+}
+
+a {
+    font-size: 1.5rem;
+}
+
+.date {
+    font-size: .9rem;
+    font-style: italic;
 }
